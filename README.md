@@ -56,25 +56,4 @@ PS: 如果提示 `The data couldn’t be read because it isn’t in the correct 
 
 [【点这查看】](https://github.com/tom-snow/Sidestore-ClashMi/issues/5)
 
-# 机场推荐
 
-## [TAG机场](https://tagss09.pro/#/auth/fmIMQ9W2)
-[注册链接](https://tagss09.pro/#/auth/fmIMQ9W2)
-短评：老牌机场，价格较贵，但是靠谱好用，ip质量很好(五星)，可看流媒体且覆盖国家很多（基本所有国家都有ip）。可以买154/年(200G流量)或者 176/季(250G每月重置)的套餐，也可定制 tiktok 专线等。
-
-## [魔戒](https://mojie.app/register?aff=8uI3edMR)
-[注册链接](https://mojie.app/register?aff=8uI3edMR)
-短评：价格便宜，节点质量一般，可看流媒体。最低可买15元130G流量【不限使用时长】直到流量用完的套餐，无按月套餐。
-
-## [八戒](https://bajie.la/register?aff=DvY0usdZ)
-[注册链接](https://us.bajie.la/register?aff=DvY0usdZ) 
-短评：和魔戒是一家的。价格中等，节点质量较好但是节点不多，有流媒体解锁，按月套餐最低可10元70G流量，也可选购30元100G流量套餐，可定制专线。
-
-## [召唤师](https://zhs.center/auth/register?code=17455iBKCEMD)
-[注册链接](https://zhs.center/auth/register?code=17455iBKCEMD) ,专属 10% 优惠码： `L4pW4U17455` （优惠码若失效可提 Issue 让我更新，下注价格未计算优惠码）
-
-短评：超老牌机场（十年以上）。价格较便宜，有流媒体解锁，双月套餐30元/两月/200G，年费套餐 100 元起(1000G不重置或150G每月重置)
-
-## [飞鸟云](https://feiniaoyun.xyz/#/register?code=fN1oJEmp)
-[注册链接](https://feiniaoyun.xyz/#/register?code=fN1oJEmp)
-短评：价格便宜，节点比较多。可选传家宝套餐24/年(100G流量每月重置)，也可选择10元200G不限时长套餐。官网和订阅链接经常需要挂梯子才能访问。
